@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply w-full p-0 m-0;
+}
+
+body {
+  @apply bg-dots flex flex-col justify-between min-h-screen bg-ghost-white;
+}
