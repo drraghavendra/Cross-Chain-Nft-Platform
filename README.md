@@ -29,14 +29,15 @@ User Experience: Creating an intuitive, user-friendly interface that allows user
 Collateral Liquidation: In the context of the cross-chain lending and borrowing platform, collateral liquidation poses a challenge due to the inherent volatility and valuation complexities of digital assets, particularly NFTs. Accurate and fair valuation during liquidation, timely execution, and ensuring transparency while navigating through different blockchain protocols are significant hurdles.
 
 💻 Tech Stack
+
 Hyperlane
 Solidity 
-
 ExpressJS
 Supabase
 NextJS
 NodeJS
 TypeScript
+
 📦 Inside the box
 CrossChain-Nft-Platform streamlines cross-chain lending and borrowing. Users collateralize tokens or NFTs to borrow assets across multiple blockchains. Features include:
 
